@@ -1,2 +1,2 @@
-# neerjeetTech
+# NeerjeetTech
 NeerjeetTech web pages
